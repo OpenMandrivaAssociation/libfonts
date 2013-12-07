@@ -1,7 +1,7 @@
 Summary:	TrueType Font Layouting
 Name:		libfonts
 Version:	1.1.6
-Release:	3
+Release:	4
 License:	LGPLv2+
 Group:		System/Libraries 
 Url:		http://reporting.pentaho.org/
