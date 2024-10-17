@@ -13,7 +13,7 @@ License: LGPLv2 and UCD
 #unzip, find . -name "*.jar" -exec rm {} \;
 #to simplify the licensing
 Source: %{name}-%{version}-jarsdeleted.zip
-URL: http://reporting.pentaho.org/
+URL: https://reporting.pentaho.org/
 BuildRequires: ant, ant-contrib, java-devel, jpackage-utils, libloader >= 1.1.3
 Requires: java, jpackage-utils, libloader >= 1.1.3
 BuildArch: noarch
